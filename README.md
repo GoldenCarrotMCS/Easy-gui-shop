@@ -5,10 +5,12 @@
 ## 前言
 EasyGuiShop原作者仓库现已无法访问：[链接](https://github.com/ZhangYang0204/easy-gui-shop/)  
 因此我创建了这个存储库，本人不是此插件的作者，如果原作者想要删除此存储库，请联系我
+EasuGuiShop的上一任作者的仓库已经长久停更：[连接](https://github.com/WarSkyGod/easy-gui-shop/)
+因此我创建了这个存储库，本人不是此插件的作者，如果原作者或上一任作者想要删除此存储库，请联系我
 
 ## 许可证
 我无法设置任何许可证，因为原作者就没设置  
-如果原作者想要删除此存储库，请联系我
+如果原作者或上一任作者想要删除此存储库，请联系我
 
 ## 这是什么
 - 一个简易的GUI商店插件
@@ -38,9 +40,9 @@ EasyGuiShop原作者仓库现已无法访问：[链接](https://github.com/Zhang
 - 一键修正Yaml配置文件的配置项
   
 ## 下载
-在 [Releases](https://github.com/WarSkyGod/easy-gui-shop/releases) 下载
+在 [Releases](https://github.com/GoldenCarrotMCS/Easy-gui-shop/releases) 下载
 
-## 依赖（以下可选）
+## 依赖（以下都为可选）
 - [Vault](https://www.spigotmc.org/resources/vault.34315/)（如果你想用经济交易，请务必再安装一个支持 Vault 的经济管理插件，比如EssentialsX）
 - [PlayerPoints](https://www.spigotmc.org/resources/playerpoints.80745/)（如果你想用点券交易）
 - [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)（如果你想要使用占位符）
