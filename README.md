@@ -4,8 +4,8 @@
 
 ## 前言
 EasyGuiShop原作者仓库现已无法访问：[链接](https://github.com/ZhangYang0204/easy-gui-shop/)  
-因此我创建了这个存储库，本人不是此插件的作者，如果原作者想要删除此存储库，请联系我
-EasuGuiShop的上一任作者的仓库已经长久停更：[连接](https://github.com/WarSkyGod/easy-gui-shop/)
+因此我创建了这个存储库，本人不是此插件的作者，如果原作者想要删除此存储库，请联系我  
+EasuGuiShop的上一任作者的仓库已经长久停更：[连接](https://github.com/WarSkyGod/easy-gui-shop/)  
 因此我创建了这个存储库，本人不是此插件的作者，如果原作者或上一任作者想要删除此存储库，请联系我
 
 ## 许可证
